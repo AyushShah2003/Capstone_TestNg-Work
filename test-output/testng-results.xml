@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-08T09:25:42 IST" name="Default suite" finished-at="2025-09-08T09:26:59 IST" duration-ms="77194">
+    <groups>
+    </groups>
+    <test started-at="2025-09-08T09:25:42 IST" name="Default test" finished-at="2025-09-08T09:26:59 IST" duration-ms="77194">
+      <class name="HealthCare_test.Testing">
+        <test-method is-config="true" signature="setup()[pri:0, instance:HealthCare_test.Testing@36fc695d]" started-at="2025-09-08T09:25:42 IST" name="setup" finished-at="2025-09-08T09:25:45 IST" duration-ms="2579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="home()[pri:1, instance:HealthCare_test.Testing@36fc695d]" started-at="2025-09-08T09:25:45 IST" name="home" finished-at="2025-09-08T09:25:52 IST" duration-ms="7144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:HealthCare_test.Testing@36fc695d]" started-at="2025-09-08T09:25:52 IST" name="teardown" finished-at="2025-09-08T09:25:52 IST" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:HealthCare_test.Testing@36fc695d]" started-at="2025-09-08T09:25:52 IST" name="setup" finished-at="2025-09-08T09:25:53 IST" duration-ms="872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="programSection()[pri:2, instance:HealthCare_test.Testing@36fc695d]" started-at="2025-09-08T09:25:53 IST" name="programSection" finished-at="2025-09-08T09:26:31 IST" duration-ms="38559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- programSection -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:HealthCare_test.Testing@36fc695d]" started-at="2025-09-08T09:26:31 IST" name="teardown" finished-at="2025-09-08T09:26:32 IST" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:HealthCare_test.Testing@36fc695d]" started-at="2025-09-08T09:26:32 IST" name="setup" finished-at="2025-09-08T09:26:32 IST" duration-ms="695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Registration()[pri:3, instance:HealthCare_test.Testing@36fc695d]" started-at="2025-09-08T09:26:32 IST" name="Registration" finished-at="2025-09-08T09:26:43 IST" duration-ms="10590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:HealthCare_test.Testing@36fc695d]" started-at="2025-09-08T09:26:43 IST" name="teardown" finished-at="2025-09-08T09:26:43 IST" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:HealthCare_test.Testing@36fc695d]" started-at="2025-09-08T09:26:43 IST" name="setup" finished-at="2025-09-08T09:26:44 IST" duration-ms="653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:4, instance:HealthCare_test.Testing@36fc695d]" started-at="2025-09-08T09:26:44 IST" name="Login" finished-at="2025-09-08T09:26:54 IST" duration-ms="10826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:HealthCare_test.Testing@36fc695d]" started-at="2025-09-08T09:26:54 IST" name="teardown" finished-at="2025-09-08T09:26:55 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:HealthCare_test.Testing@36fc695d]" started-at="2025-09-08T09:26:55 IST" name="setup" finished-at="2025-09-08T09:26:55 IST" duration-ms="740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="contactUs()[pri:5, instance:HealthCare_test.Testing@36fc695d]" started-at="2025-09-08T09:26:55 IST" name="contactUs" finished-at="2025-09-08T09:26:59 IST" duration-ms="3512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUs -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:HealthCare_test.Testing@36fc695d]" started-at="2025-09-08T09:26:59 IST" name="teardown" finished-at="2025-09-08T09:26:59 IST" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- HealthCare_test.Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
